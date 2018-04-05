@@ -1,0 +1,4 @@
+
+set(CN_PROJECT_NAME "depositx")
+set(CN_CURRENCY_DISPLAY_NAME "DepositX")
+set(CN_CURRENCY_TICKER "DXC")
